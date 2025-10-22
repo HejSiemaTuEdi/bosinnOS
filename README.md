@@ -24,12 +24,7 @@ bosinnOS/
 └── docs/               # Documentation
 ```
 
-## Building
-
-1. Install dependencies (build-essential, kernel headers, etc.)
-2. Run `./build/build.sh` to build the entire system
-3. Create bootable image with `./build/create-image.sh`
-
 ## Usage
 
 The system boots into a Bash shell where you can run Bash programs and access GNU tools 
+
